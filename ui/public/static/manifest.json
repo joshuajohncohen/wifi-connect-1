@@ -1,6 +1,6 @@
 {
-  "short_name": "WiFi Connect",
-  "name": "Easy WiFi setup for Linux devices from your mobile phone or laptop",
+  "short_name": "Connect to Wi-Fi",
+  "name": "Connect to Wi-Fi",
   "icons": [
     {
       "src": "favicon.png",
